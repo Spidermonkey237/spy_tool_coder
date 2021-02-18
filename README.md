@@ -1,1 +1,3 @@
 # spy_tool_coder
+
+It is a GUI allowing to encode messages in Cesar or using the "Würfel Verschlusselung" cube coding method ....
